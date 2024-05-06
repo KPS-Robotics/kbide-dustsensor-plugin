@@ -1,0 +1,16 @@
+{
+  "name": "kbide-dustsensor-plugin",
+  "title": "DustSensor",
+  "keywords": "ide, esp32, dust, dustsenor",
+  "description": "DustSensor plugin for KB-IDE",
+  "git": "https://github.com/KPS-Robotics/kbide-dustsensor-plugin",
+  "author": "Mikhail Akhsakov",
+  "email": "",
+  "url": "http://www.kbide.org",
+  "version": "1.0.1",
+  "board": "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image": "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
